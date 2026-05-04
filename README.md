@@ -1,5 +1,9 @@
 # Crime Analytics Dashboard for Operational Decision-Making
 
+> Interactive R Shiny dashboard analysing UK crime trends to support operational decision-making.
+
+---
+
 ## 📊 Overview
 Developed an interactive dashboard using **R Shiny** to analyse violent crime trends in England & Wales using publicly available datasets from the Office for National Statistics (ONS), Crime Survey for England & Wales (CSEW), and Police Recorded Crime.
 
@@ -52,9 +56,11 @@ The dashboard supports operational decision-making by enabling users to explore 
 ## 📊 Analytical Insights
 
 ### Long-term Violence Trend
+Shows a significant long-term decline in violent crime since the 1990s, highlighting the impact of sustained prevention strategies.  
 ![Violence Trend](violence-trend.png)
 
 ### Knife Crime Trend
+Highlights recent fluctuations in knife-enabled offences, indicating the need for continued monitoring of high-harm crime.  
 ![Knife Crime](knife-trend.png)
 
 ---
