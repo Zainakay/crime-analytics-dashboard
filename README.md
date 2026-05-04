@@ -1,9 +1,9 @@
 # Crime Analytics Dashboard for Operational Decision-Making
 
 ## 📊 Overview
-This project analyses violent crime trends in England & Wales using publicly available datasets from the Office for National Statistics (ONS), Crime Survey for England & Wales (CSEW), and Police Recorded Crime.
+Developed an interactive dashboard using **R Shiny** to analyse violent crime trends in England & Wales using publicly available datasets from the Office for National Statistics (ONS), Crime Survey for England & Wales (CSEW), and Police Recorded Crime.
 
-An interactive dashboard was developed using **R Shiny** to support operational decision-making by enabling users to explore trends, monitor key indicators, and identify areas of concern.
+The dashboard supports operational decision-making by enabling users to explore trends, monitor key indicators, and identify areas of concern through interactive visualisations.
 
 ---
 
@@ -12,6 +12,14 @@ An interactive dashboard was developed using **R Shiny** to support operational 
 - Knife-enabled offences show more recent fluctuations and emerging risks  
 - Survey data (CSEW) and police-recorded data provide different perspectives on crime trends  
 - High-harm offences remain critical for operational monitoring  
+
+---
+
+## 🎯 Project Impact
+- Enables monitoring of long-term and short-term crime trends  
+- Supports data-driven decision-making for resource allocation  
+- Highlights differences between survey-based and recorded crime data  
+- Provides an interactive tool for exploring high-risk offence categories  
 
 ---
 
@@ -36,11 +44,12 @@ An interactive dashboard was developed using **R Shiny** to support operational 
 ![Dashboard Overview](dashboard-overview.png)
 
 ### 🔧 Interactive Filters
+
 ![Dashboard Filters](dashboard-filters.png)
 
 ---
 
-## 📊 Key Insights Visuals
+## 📊 Analytical Insights
 
 ### Long-term Violence Trend
 ![Violence Trend](violence-trend.png)
@@ -60,7 +69,7 @@ An interactive dashboard was developed using **R Shiny** to support operational 
 ## 🚀 How to Run
 1. Open the project in RStudio  
 2. Run the `DashboardPolice.R` file  
-3. Launch the Shiny app  
+3. Launch the Shiny application  
 
 ---
 
